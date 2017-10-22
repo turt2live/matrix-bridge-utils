@@ -22,3 +22,4 @@ These scripts are lightly tested and can cause serious damage to your homeserver
 # Scripts
 
 * `vacate-room.js` - Forces the bridge, and all of the ghosts, to leave a room
+* `send-message.js` - Sends a message as a bridged user to someone else. Creates a new room in the process.
