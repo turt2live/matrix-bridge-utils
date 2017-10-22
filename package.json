@@ -1,0 +1,24 @@
+{
+  "name": "matrix-bridge-utils",
+  "version": "1.0.0",
+  "description": "bridge utilities",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/turt2live/matrix-bridge-utils.git"
+  },
+  "author": "Travis Ralston <travis.nathaniel.ralston@gmail.com> (http://travisralston.me)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/turt2live/matrix-bridge-utils/issues"
+  },
+  "homepage": "https://github.com/turt2live/matrix-bridge-utils#readme",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "command-line-args": "^4.0.7",
+    "command-line-usage": "^4.0.1",
+    "js-yaml": "^3.10.0",
+    "matrix-appservice-bridge": "git://github.com/turt2live/matrix-appservice-bridge.git#travis/auto-group",
+    "matrix-js-sdk": "git://github.com/turt2live/matrix-js-sdk.git#travis/babel-runtime-built"
+  }
+}

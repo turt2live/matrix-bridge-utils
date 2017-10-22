@@ -1,3 +1,6 @@
+/.idea
+appservice-*.yaml
+
 # Logs
 logs
 *.log
